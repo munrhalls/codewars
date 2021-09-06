@@ -1,0 +1,2 @@
+1. Pick simplest challenges on codewars.
+2. Solve in MORE THAN ONE ways.
